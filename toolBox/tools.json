@@ -1,5 +1,9 @@
 {
     "tools": {
+        "rock": [
+            5,
+            "stern"
+        ],
         "water": [
             50,
             "bow"
