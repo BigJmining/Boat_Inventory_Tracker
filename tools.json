@@ -1,56 +1,8 @@
 {
     "tools": {
-        "candel": [
-            2,
-            "starboard"
-        ],
-        "crack": [
-            2,
+        "water": [
+            50,
             "bow"
-        ],
-        "drill": [
-            1,
-            "stern"
-        ],
-        "flashlight": [
-            1,
-            "port"
-        ],
-        "funnel": [
-            1,
-            "bow"
-        ],
-        "hammer": [
-            1,
-            "bow"
-        ],
-        "knife": [
-            1,
-            "helm"
-        ],
-        "oil": [
-            3,
-            "stern"
-        ],
-        "sandpaper": [
-            10,
-            "stern"
-        ],
-        "saw": [
-            2,
-            "[port, starboard]"
-        ],
-        "screwdriver_flat": [
-            4,
-            "[bow, toolbox1, helm, port]"
-        ],
-        "torch": [
-            1,
-            "bow"
-        ],
-        "wrench": [
-            12,
-            "toolbox2"
         ]
     }
 }
